@@ -1,8 +1,6 @@
 package jp.hisano.failsafe
 
 import dev.failsafe.RetryPolicy
-import jp.hisano.jp.hisano.failsafe.invoke
-import jp.hisano.jp.hisano.failsafe.plus
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue
 

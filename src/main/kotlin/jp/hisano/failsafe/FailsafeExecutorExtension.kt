@@ -1,4 +1,4 @@
-package jp.hisano.jp.hisano.failsafe
+package jp.hisano.failsafe
 
 import dev.failsafe.ExecutionContext
 import dev.failsafe.FailsafeException
